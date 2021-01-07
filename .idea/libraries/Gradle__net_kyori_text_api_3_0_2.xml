@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: net.kyori:text-api:3.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.kyori/text-api/3.0.2/608cdb44a74bbd68745941760df730ed55e4b47c/text-api-3.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.kyori/text-api/3.0.2/48f98e99c83c97d6b7e0e63f195500b8ffc43360/text-api-3.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.kyori/text-api/3.0.2/95751ea0b14e092f186dc8b73ef6c1ac428eab04/text-api-3.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

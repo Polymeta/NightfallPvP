@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.ow2.asm:asm-debug-all:6.0_BETA">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/6.0_BETA/5d1f7d145b0094c3955dff56d3119d7bd9807aff/asm-debug-all-6.0_BETA.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/6.0_BETA/21cf9cad9f91558825fc41a4f2514a75295da360/asm-debug-all-6.0_BETA-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-debug-all/6.0_BETA/d1ce213dc9f28569f908355e7abd16db1f331943/asm-debug-all-6.0_BETA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

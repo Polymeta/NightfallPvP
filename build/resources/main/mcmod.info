@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "nightfallpvp",
+        "name": "Nightfall PvP",
+        "version": "1.0.4",
+        "description": "Let PvP rule the nights, while days remain save.",
+        "authorList": [
+            "Polymeta"
+        ],
+        "dependencies": [
+            "spongeapi@7.2.0-SNAPSHOT"
+        ],
+        "requiredMods": [
+            "spongeapi@7.2.0-SNAPSHOT"
+        ]
+    }
+]
