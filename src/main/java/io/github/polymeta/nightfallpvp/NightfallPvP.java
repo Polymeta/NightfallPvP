@@ -20,7 +20,7 @@ import java.util.HashSet;
 @Plugin(id = "nightfallpvp",
         name = "Nightfall PvP",
         description = "Let PvP rule the nights, while days remain save.",
-        version = "1.0.4",
+        version = "1.0.5",
         authors = {"Polymeta"})
 public class NightfallPvP
 {
